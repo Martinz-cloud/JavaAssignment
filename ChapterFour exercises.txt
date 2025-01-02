@@ -1,0 +1,81 @@
+ChapterFour exercises:
+4.1 a) sequence, iteration, selection.
+    b) if....else.
+    c) counter-controlled.
+    d) sentinel, signal, flag or dummy.
+    e) sequence.
+    f) zero.
+    g) prefixed.
+    h) eight.
+    	
+4.2 a) true.
+    b) false.
+    c) false.
+    d) true.
+    e) true.
+    f) false.
+    g) false.
+    h) false.
+    i) false.
+    j) true.
+ 
+4.3 a) x += 1;
+    b) x ++;
+    c) ++ x;
+    d) x = x + 1;
+
+4.4 a) z = x + y; x += 1;
+    b) count = 0; 
+       if (count > 10){System.out.print("Count is greater than 10")}
+    c) x -= 1; --x; total = x;
+    d) q %= divisor;
+       q = q % divisor; 
+
+4.5 a) int sum = 0;
+    b) int x = 1;
+    c) sum += x
+    d) System.out.print("The sum is :" + sum);
+
+4.6 
+	public class Calculate{
+	public static void main(String[] marz){
+	int numb = 1;
+	int sum = 0;
+	while( numb <= 10){sum += numb; ++numb;
+}
+System.out.printf("The sum is: %d%n", sum);
+
+}
+
+
+}
+
+
+4.7   int x = 5;
+      5 *= x++;
+
+
+4.8  a) right braces is missing.
+     b) there is no need for a semicolon after else.
+	
+4.9  There will be an infinite loop if the program is executed.
+
+
+4.10 similarities: They both repeat a specific action while a condition      
+     is true.
+                   
+     differences: 'if' is used for single selection statement while 'while' is
+     used for iterational statement.                 
+
+ 
+4.11 The compiler ignores the fraction and displays the result as an integer, 
+      this can be avoided by using a float or a double instead of integer when        
+      initializing variables.
+	
+
+4.12 Using if else and nested if else statement.
+
+
+4.13 Sentinel controlled iteration , counter controlled iteration.
+     In the first objective the number of user input is not known so  
+     

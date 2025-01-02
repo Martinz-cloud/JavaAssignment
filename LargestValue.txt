@@ -1,0 +1,81 @@
+import java.util.Scanner;
+  public class LargestValue{
+  public static void main(String[] marz){
+  Scanner input;
+  input = new next.Scanner(System.in);
+
+
+  System.out.println("Enter first number:");
+  int number1 = input.next.Int;
+ 
+  System.out.println("Enter second number:");
+  int number2 = input.next.Int;
+ 
+  System.out.println("Enter second number:");
+
+  System.out.println("Enter third number:");
+  int number3 = input.next.Int;
+  
+
+  System.out.println("Enter fourth number:");
+  int number4 = input.next.Int;
+
+  System.out.println("Enter fifth number:");
+  int number5 = input.next.Int;
+
+  System.out.println("Enter sixth number:");
+  int number6 = input.next.Int;
+
+  System.out.println("Enter seventh number:");
+  int number7 = input.next.Int;
+
+
+  System.out.println("Enter eighth number:");
+  int number8 = input.next.Int;
+
+  System.out.println("Enter ninth number:");
+  int number9 = input.next.Int;
+ 
+  System.out.println("Enter tenth number:");
+  int number10 = input.next.Int;
+
+
+  if (number1 > number2 , number3, number4, nmuber5, number6, number7, number8, number9, number10 ){System.out.println("number1 is the largest number");}
+ 
+  
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

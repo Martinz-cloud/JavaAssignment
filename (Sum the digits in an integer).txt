@@ -1,0 +1,5 @@
+                        (Sum the digits in an integer)
+                                  Stage one
+1. Read an integer between 0 and 1000.
+2. Adds all the digits in the integer.
+                                  Stage two

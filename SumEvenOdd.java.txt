@@ -1,0 +1,52 @@
+import java.util.Scanner;
+ public class SumEvenOdd {
+
+public static void main(String[] args){
+
+Scanner scanner = new Scanner(System.in);
+System.out.println("Enter set of integers ");
+
+int sumEven = 0;
+ int sumodd = 0;
+if (num % 2 == 0){
+   sumEven += num;
+} else { 
+    sumOdd += num; 
+ }
+System.out.println("Sum of even integers:" + sumEven);
+System.out.printLn("sum of odd integers:" + sumOdd);
+
+
+
+
+
+
+
+
+
+
+
+
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
